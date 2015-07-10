@@ -7,6 +7,7 @@ public class FirstClass {
 		secClass.helloSecond();
 		
 		System.out.println("I am in First Class");
+		System.out.println("This is second change");
 	}
 
 }
